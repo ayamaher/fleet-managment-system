@@ -7,7 +7,7 @@ Task Deliverables Please make sure to deliver the following
 2. Database dump with proper data to be tested. 
 3. Proper README.md file explaining how to a. Access the administration area b. Any special configs needed to run the application.  
 4. ** Bonus: Use docker or vagrant so that the app runs with one command via the terminal.  Expected Stuff We expect you to do proper validation where applicable in any user input. Database structure and authentication techniques are also core part of this task.   Task Description will follow in the next page.    
-Task Description Robusta studio wants to build a fleet-management system (bus-booking system) Having: 
+# Task Description Robusta studio wants to build a fleet-management system (bus-booking system) Having: 
 1- Egypt cities as stations [Cairo, Giza, AlFayyum, AlMinya, Asyut...] 
 2- Predefined trips between 2 stations that cross over in-between stations. ex: Cairo to Asyut trip that crosses over AlFayyum -firstly- then AlMinya. 
 3- Bus for each trip, each bus has 12 available seats to be booked by users, each seat has an unique id.
