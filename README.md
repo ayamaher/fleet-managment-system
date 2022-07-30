@@ -6,7 +6,10 @@
 <p> 1. A public github repository containing your code. Make sure proper .gitignore is in place. Commit messages will be checked.</p>
 <p> 2. Database dump with proper data to be tested. </p>
 <p> 3. Proper README.md file explaining how to a. Access the administration area b. Any special configs needed to run the application.  </p>
-<p> 4. ** Bonus: Use docker or vagrant so that the app runs with one command via the terminal.  Expected Stuff We expect you to do proper validation where applicable in any user input. Database structure and authentication techniques are also core part of this task.  </p>
+<p> 4. ** Bonus: Use docker or vagrant so that the app runs with one command via the terminal. </p>
+## Expected Stuff
+<p> We expect you to do proper validation where applicable in any user input.</p>
+<p> Database structure and authentication techniques are also core part of this task.  </p>
 
 ## Task Description Robusta studio wants to build a fleet-management system (bus-booking system) Having: 
 <p> 1- Egypt cities as stations [Cairo, Giza, AlFayyum, AlMinya, Asyut...] </p>
